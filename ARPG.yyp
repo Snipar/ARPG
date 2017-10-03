@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "33de357c-5b31-45b3-85a1-06a9500e0cca",
+            "Value": {
+                "id": "179ab286-c2c1-4810-89bc-65c20beee420",
+                "resourcePath": "objects\\game\\game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "37a610b7-77ee-4946-8488-48f44c2c5b6e",
             "Value": {
                 "id": "b6f2d9db-f539-4011-9684-b69e99316851",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "3a812407-ab57-437f-b156-e80eb6c82453",
+            "Value": {
+                "id": "75c01b6e-f883-4538-9a44-0a56fe1271c7",
+                "resourcePath": "objects\\obj_transsition\\obj_transsition.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3f44cd2b-adf5-450c-9e0d-5d69c2cba429",
             "Value": {
                 "id": "5de8b465-d876-486a-8c69-f974b90a2a73",
@@ -252,6 +268,14 @@
                 "id": "89fc74e8-e946-4cda-88cb-aee1467dffd0",
                 "resourcePath": "sprites\\spr_base_male_darkelf\\spr_base_male_darkelf.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "41d05cbd-5baa-4f9d-9c4a-27c7bf9a4f3f",
+            "Value": {
+                "id": "83c7c0cc-d519-4f86-8085-93bd9587ed03",
+                "resourcePath": "views\\41d05cbd-5baa-4f9d-9c4a-27c7bf9a4f3f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -468,6 +492,14 @@
                 "id": "e6c07ec4-3094-4a8a-b217-a150ce51806e",
                 "resourcePath": "views\\90ae380b-153e-4a43-ab39-8cf0ab2a6e99.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "91914377-8909-444f-b608-9064f1033c95",
+            "Value": {
+                "id": "34d4969a-c4d3-486f-b3e0-d357b94e461c",
+                "resourcePath": "objects\\obj_collision\\obj_collision.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -692,6 +724,14 @@
                 "id": "f986b232-9527-4185-9105-7d7ef50f6fba",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f62c2e88-5b1b-4aba-9df4-45cad6c9c680",
+            "Value": {
+                "id": "59c9486d-fe7e-4578-a75b-ca885e7513bc",
+                "resourcePath": "objects\\camera\\camera.yy",
+                "resourceType": "GMObject"
             }
         },
         {

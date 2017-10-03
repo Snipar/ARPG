@@ -1,48 +1,38 @@
 {
-    "id": "2c6fcbc3-073c-496e-9074-fdc111374c47",
+    "id": "33de357c-5b31-45b3-85a1-06a9500e0cca",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_parent_NPC",
+    "name": "game",
     "eventList": [
         {
-            "id": "6a5b483e-0a94-4674-b7c1-eb8b7d91d9a8",
+            "id": "d2f97732-ce2f-480d-9410-5297c08e37ca",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "2c6fcbc3-073c-496e-9074-fdc111374c47"
+            "m_owner": "33de357c-5b31-45b3-85a1-06a9500e0cca"
         },
         {
-            "id": "44245bfa-2255-4e20-a5c2-95c5b5019b83",
+            "id": "c2692054-b096-42ee-9241-f792c324c585",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "2c6fcbc3-073c-496e-9074-fdc111374c47"
-        },
-        {
-            "id": "42d8f787-259f-4c0a-b174-4a26e22b5e54",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 2,
-            "m_owner": "2c6fcbc3-073c-496e-9074-fdc111374c47"
-        },
-        {
-            "id": "309c15ba-da5e-4adf-8699-ada54344edc8",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
+            "enumb": 64,
             "eventtype": 8,
-            "m_owner": "2c6fcbc3-073c-496e-9074-fdc111374c47"
+            "m_owner": "33de357c-5b31-45b3-85a1-06a9500e0cca"
+        },
+        {
+            "id": "dbf84ec6-1f47-4951-b7f8-b9c2596f9b47",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 7,
+            "m_owner": "33de357c-5b31-45b3-85a1-06a9500e0cca"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
