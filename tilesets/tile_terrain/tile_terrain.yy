@@ -4,7 +4,31 @@
     "mvc": "1.11",
     "name": "tile_terrain",
     "auto_tile_sets": [
-        
+        {
+            "id": "69c63c02-16d6-4a8f-8e95-3563a4fab81d",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "atile_grass",
+            "tiles": [
+                118,
+                55,
+                54,
+                86,
+                23,
+                117,
+                21,
+                85,
+                22,
+                53,
+                119,
+                87,
+                150,
+                149,
+                151,
+                0
+            ]
+        }
     ],
     "macroPageTiles": {
         "SerialiseData": null,
