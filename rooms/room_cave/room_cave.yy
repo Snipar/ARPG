@@ -1771,7 +1771,7 @@
             "inherit": false,
             "objId": "33478bbe-fefc-45dc-be08-acc9bb9482f2",
             "vborder": 32,
-            "visible": false,
+            "visible": true,
             "vspeed": -1,
             "wport": 1024,
             "wview": 750,
