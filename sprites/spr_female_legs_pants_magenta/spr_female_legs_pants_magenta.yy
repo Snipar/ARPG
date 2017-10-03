@@ -2,7 +2,7 @@
     "id": "7c84edb0-86b0-4695-a3a4-a9470894bd48",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_female_legs_pants_megenta",
+    "name": "spr_female_legs_pants_magenta",
     "For3D": false,
     "HTile": false,
     "VTile": false,
