@@ -3,7 +3,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 randomize()
-room_goto(room_farm)
+room_goto(room_cave)
 
 guiWidth = display_get_gui_width()
 guiHeight = display_get_gui_height()
