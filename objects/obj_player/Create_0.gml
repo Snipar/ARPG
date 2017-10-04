@@ -1,3 +1,5 @@
+event_inherited()
+
 ///speed variables
 w_spd = 1;
 n_spd = 2;

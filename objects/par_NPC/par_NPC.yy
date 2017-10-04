@@ -2,7 +2,7 @@
     "id": "2c6fcbc3-073c-496e-9074-fdc111374c47",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_parent_NPC",
+    "name": "par_NPC",
     "eventList": [
         {
             "id": "6a5b483e-0a94-4674-b7c1-eb8b7d91d9a8",
@@ -46,7 +46,7 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "8e1f43c3-8e80-4c2a-9c39-1c528792ef1b",
     "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

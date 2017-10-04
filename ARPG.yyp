@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "10dc77e7-b697-44c3-80fd-2da233185d9f",
+            "Value": {
+                "id": "3ef67861-3d37-410f-9a84-60788f9129b2",
+                "resourcePath": "objects\\depth_sorter\\depth_sorter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "136a0b14-2c5a-4435-ba4c-82c308eea360",
             "Value": {
                 "id": "7a982af5-39ee-4d86-b9a3-27419f083128",
@@ -202,7 +210,7 @@
             "Key": "2c6fcbc3-073c-496e-9074-fdc111374c47",
             "Value": {
                 "id": "0c68d2e5-b2c2-4cfc-ae09-c89da3ce0c05",
-                "resourcePath": "objects\\obj_parent_NPC\\obj_parent_NPC.yy",
+                "resourcePath": "objects\\par_NPC\\par_NPC.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -492,6 +500,14 @@
                 "id": "6bf86172-66bd-4fed-b76c-dbb342423f32",
                 "resourcePath": "sprites\\spr_base_male_tanned2\\spr_base_male_tanned2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8e1f43c3-8e80-4c2a-9c39-1c528792ef1b",
+            "Value": {
+                "id": "d5ae1dc9-d41d-4e0f-8760-2464493ede7d",
+                "resourcePath": "objects\\par_depthObject\\par_depthObject.yy",
+                "resourceType": "GMObject"
             }
         },
         {
