@@ -58,7 +58,7 @@ if(moveX != 0){
 
 //Verticle
 if(moveY != 0){
-	var collisionV = instance-plane(x, y+moveY, obj_collision)
+	var collisionV = instance_place(x, y+moveY, obj_collision)
 	if(collisionV != noone and collisionV.collideable){
 		repeat(abs(moveX)){
 			if(!place_meeting(x, y+sign(moveY), obj_collision)){

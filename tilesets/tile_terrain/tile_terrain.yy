@@ -105,31 +105,6 @@
             ]
         },
         {
-            "id": "0433bd12-93e8-4fbb-98b6-e53ded8eba35",
-            "modelName": "GMAutoTileSet",
-            "mvc": "1.0",
-            "closed_edge": false,
-            "name": "atile_dirt",
-            "tiles": [
-                932,
-                869,
-                868,
-                900,
-                837,
-                931,
-                835,
-                899,
-                836,
-                867,
-                933,
-                901,
-                964,
-                963,
-                965,
-                0
-            ]
-        },
-        {
             "id": "3d0ed7cd-8a16-4bb0-8a36-36ee8d3b8e4a",
             "modelName": "GMAutoTileSet",
             "mvc": "1.0",
@@ -301,6 +276,31 @@
                 153,
                 152,
                 154,
+                0
+            ]
+        },
+        {
+            "id": "e7f45fad-0cde-43c2-a653-df1a84759cf2",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "atile_dirt_light",
+            "tiles": [
+                112,
+                49,
+                48,
+                80,
+                17,
+                111,
+                15,
+                79,
+                16,
+                47,
+                113,
+                81,
+                144,
+                143,
+                145,
                 0
             ]
         }
