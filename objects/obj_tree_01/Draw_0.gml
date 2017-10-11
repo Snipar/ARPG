@@ -1,0 +1,1 @@
+draw_sprite(spr_Tree_1, 0, x, y)

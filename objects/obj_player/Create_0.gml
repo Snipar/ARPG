@@ -16,7 +16,7 @@ spr_base =  spr_base_female_light
 spr_torso = spr_torso_sleeveless_brown
 spr_feet =  spr_feet_shoes_brown
 spr_legs =  spr_female_legs_pants_magenta
-spr_hair =  spr_hair_bangs_brown
+spr_hair =  spr_hair_pony_raven
 spr_shadow = spr_character_shadow
 
 facing = 0

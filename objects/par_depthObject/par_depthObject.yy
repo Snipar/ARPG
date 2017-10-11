@@ -1,8 +1,8 @@
 {
-    "id": "8e1f43c3-8e80-4c2a-9c39-1c528792ef1b",
+    "id": "4922bb39-4ea8-4066-a6ab-3c3efaa3507a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "par_depthObject",
+    "name": "par_depthobject",
     "eventList": [
         
     ],

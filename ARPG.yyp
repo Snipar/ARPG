@@ -127,14 +127,6 @@
             }
         },
         {
-            "Key": "10dc77e7-b697-44c3-80fd-2da233185d9f",
-            "Value": {
-                "id": "3ef67861-3d37-410f-9a84-60788f9129b2",
-                "resourcePath": "objects\\depth_sorter\\depth_sorter.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "136a0b14-2c5a-4435-ba4c-82c308eea360",
             "Value": {
                 "id": "7a982af5-39ee-4d86-b9a3-27419f083128",
@@ -295,6 +287,14 @@
             }
         },
         {
+            "Key": "3f7ae76d-a3d3-4909-9d35-b1b973bc1a44",
+            "Value": {
+                "id": "85f709f0-7d4b-46aa-b6fb-1d8dec7067f7",
+                "resourcePath": "sprites\\spr_hair_pixie_blond\\spr_hair_pixie_blond.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "416a82ec-4c1f-419a-9cca-d1ff5db5f55b",
             "Value": {
                 "id": "89fc74e8-e946-4cda-88cb-aee1467dffd0",
@@ -308,6 +308,14 @@
                 "id": "83c7c0cc-d519-4f86-8085-93bd9587ed03",
                 "resourcePath": "views\\41d05cbd-5baa-4f9d-9c4a-27c7bf9a4f3f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4922bb39-4ea8-4066-a6ab-3c3efaa3507a",
+            "Value": {
+                "id": "2830e000-9026-4a20-b8c0-b821e49ad217",
+                "resourcePath": "objects\\par_depthobject\\par_depthobject.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -340,6 +348,14 @@
                 "id": "2d9abc82-3810-4132-a8a1-ec309a9633d0",
                 "resourcePath": "views\\561f7942-3186-4e57-9930-cb2a5fa717a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5abb8f8e-2629-408f-a4fb-4683c7f3226a",
+            "Value": {
+                "id": "38832b31-4701-4b42-8d28-5ea941aa6701",
+                "resourcePath": "sprites\\spr_bridge\\spr_bridge.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -527,14 +543,6 @@
             }
         },
         {
-            "Key": "8e1f43c3-8e80-4c2a-9c39-1c528792ef1b",
-            "Value": {
-                "id": "d5ae1dc9-d41d-4e0f-8760-2464493ede7d",
-                "resourcePath": "objects\\par_depthObject\\par_depthObject.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "8f2ad198-ac04-440b-b350-6f5512059439",
             "Value": {
                 "id": "15497074-34a0-4a32-8bbc-575db228dcba",
@@ -580,6 +588,14 @@
                 "id": "713b5cb3-0912-4404-8457-e8aead06731f",
                 "resourcePath": "sprites\\spr_male_legs_pants_white\\spr_male_legs_pants_white.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "958c45e3-1c82-4d7f-830d-969d29bd5a6a",
+            "Value": {
+                "id": "c132e9e9-55a9-44e9-a87f-468101d4502f",
+                "resourcePath": "objects\\obj_bridge\\obj_bridge.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -635,6 +651,14 @@
             "Value": {
                 "id": "8e31267b-8333-421d-ab7e-935b3ccf1cd4",
                 "resourcePath": "objects\\obj_tree_01\\obj_tree_01.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ad925e37-ec1c-4ace-96d6-6304e6e21ce6",
+            "Value": {
+                "id": "ebe08cc5-61bc-4329-a3c2-177870fe5c6d",
+                "resourcePath": "objects\\obj_depthsorter\\obj_depthsorter.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -707,6 +731,14 @@
             "Value": {
                 "id": "55ccfef5-e542-459d-b357-693ef9df0487",
                 "resourcePath": "sprites\\spr_torso_longsleeve_brown\\spr_torso_longsleeve_brown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c703c46a-973e-42b6-bff0-a99cc0ffc6ba",
+            "Value": {
+                "id": "386e0bd0-c7b8-49a9-b802-cf89579ddbdc",
+                "resourcePath": "sprites\\spr_hair_pony_raven\\spr_hair_pony_raven.yy",
                 "resourceType": "GMSprite"
             }
         },

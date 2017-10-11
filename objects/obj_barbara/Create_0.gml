@@ -15,4 +15,4 @@ spr_base =  spr_base_female_tanned2
 spr_torso = spr_torso_sleeveless_teal
 spr_feet =  spr_feet_shoes_brown
 spr_legs =  spr_female_legs_pants_white
-spr_hair =  spr_hair_bangs_blond
+spr_hair =  spr_hair_pixie_blond
