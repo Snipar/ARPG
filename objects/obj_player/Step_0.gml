@@ -89,3 +89,5 @@ if(inst != noone and facing == inst.playerFacingBefore){
 
 x += moveX;
 y += moveY;
+
+

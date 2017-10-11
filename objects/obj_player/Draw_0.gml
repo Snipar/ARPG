@@ -1,6 +1,6 @@
 var anim_length = 9;
 var frame_size = 64;
-var anim_speed = 12;
+var anim_speed = 6;
 
 
 switch(facing){
@@ -13,6 +13,14 @@ switch(facing){
 
 var xx = x-x_offset
 var yy = y-y_offset
+
+//INCREMENT FRAME FOR ANIMATION
+if(x_frame + (anim_length/60) < anim_length){
+	x_frame += anim_speed/60;
+}else{
+	x_frame = 1;
+}	
+
 
 //DRAW CHARACTER SHADOW
 if(spr_shadow != -1)draw_sprite(spr_character_shadow, 0, x,y)
